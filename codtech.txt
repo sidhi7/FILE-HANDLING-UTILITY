@@ -1,0 +1,3 @@
+Hello! CodeTech.
+Welcome to Advanced Java file operations.
+Here is some more content added later.
