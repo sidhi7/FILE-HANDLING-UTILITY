@@ -11,16 +11,6 @@
 **DURATION:** 6 Weeks  
 **MENTOR:** Neela Santosh
 
-
-## 📂 File Operations Utility in Java
-
-**COMPANY:** CODTECH IT SOLUTIONS  
-**NAME:** Sidhi Grover  
-**INTERN ID:** CT06DF949  
-**DOMAIN:** Java Programming  
-**DURATION:** 6 Weeks  
-**MENTOR:** Neela Santosh  
-
 ---
 
 ## 📚 Description
